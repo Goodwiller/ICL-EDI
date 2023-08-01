@@ -8,8 +8,6 @@ The authors propose a scheme named ICL-EDI (Inspection and Corruption Localizati
 
 ICL-EDI provides a novel approach to ensure data integrity in edge computing, allowing service vendors to inspect and localize corrupted edge data efficiently. The paper presents theoretical proofs and experimental results to demonstrate the effectiveness and efficiency of ICL-EDI.
 
-## Project Structure
--Service Vendor ()
 
 ## Requirements For Initial Setup
 - Install C++ Compiler (GCC, Clang, or MSVC)
