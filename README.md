@@ -13,7 +13,7 @@ ICL-EDI provides a novel approach to ensure data integrity in edge computing, al
 - Install C++ Compiler (GCC, Clang, or MSVC)
 - Install Python (version 3.5 or higher)
 - Install GNU Make or CMake (optional but recommended for building)
-- Install [Hardhat](https://botan.randombit.net/)
+- Install [Botan](https://botan.randombit.net/)
 
 ## Setting Up
 ### 1. Clone/Download the Repository
